@@ -1,4 +1,5 @@
-import java.util.Date; //a priori un import sin sentido
+//éste import no se usa en éste capítulo sino en el siguiente
+import java.util.Date; 
 
 public class Main {
 	
